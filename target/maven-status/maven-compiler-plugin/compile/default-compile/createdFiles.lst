@@ -1,0 +1,4 @@
+page\AddCategoryPage.class
+util\BrowserFactory.class
+page\BasePage.class
+page\DashboardPage.class
